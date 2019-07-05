@@ -36,8 +36,7 @@
     },
     "albums": {"type": "io.cozy.photos.albums"},
     "accounts": {
-      "type": "io.cozy.accounts",
-      "verbs": ["GET"]
+      "type": "io.cozy.accounts"
     }
   },
   "developer": {
